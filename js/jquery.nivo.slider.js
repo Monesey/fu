@@ -1,14 +1,4 @@
-/*
- * jQuery Nivo Slider v1.9
- * http://nivo.dev7studios.com
- *
- * Copyright 2010, Gilbert Pellegrom
- * Free to use and abuse under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * April 2010 - controlNavThumbs option added by Jamie Thompson (http://jamiethompson.co.uk)
- * March 2010 - manualAdvance option added by HelloPablo (http://hellopablo.co.uk)
- */
+
 
 (function($) {
 
